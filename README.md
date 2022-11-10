@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🏳️‍🌈 I'm Mikel Hernández Jiménez (he/him)
-- 💻 I’m currently working as a research assistant on Vicomtech foundation.
+- 💻 I’m a PhD Student on Vicomtech Foundation.
 - 🔭 My research is focused on synthetic data generation (SDG) for data augmentation and privacy preservation
 - 🌱 I’m currently learning many aspects of data science, such as, data visualization, data modelling and recommendation systems.
 - 📫 How to reach me: https://es.linkedin.com/in/mikel-hernandez-jimenez
