@@ -1,10 +1,4 @@
-### Hi there 👋
-
-- 🏳️‍🌈 I'm Mikel Hernández Jiménez (he/him)
-- 💻 I’m a PhD Student on Vicomtech Foundation.
-- 🔭 My research is focused on synthetic data generation (SDG) for data augmentation and privacy preservation
-- 🌱 I’m currently learning many aspects of data science, such as, data visualization, data modelling and recommendation systems.
-- 📫 How to reach me: https://es.linkedin.com/in/mikel-hernandez-jimenez
+Mikel Hernandez holds a bachelor’s degree in Telecommunication Systems Engineering (2019) and a master’s degree in Biomedical Technologies (2021) from the Faculty of Engineering of Mondragon University. Currently, is working as a Researcher in the Big Data Health line of the Digital Health and Biomedical Technologies department at the Vicomtech foundation, on which he is also developing his PhD Thesis in collaboration with the Unversity of the Basque Country. His fields of interest include data analysis, synthetic data generation and evaluation, and big data in the health and wellbeing domain.
 
 ![Mikel's GitHub stats](https://github-readme-stats.vercel.app/api?username=mikel-hernandezj&count_private=true&show_icons=true&theme=dark)
 
